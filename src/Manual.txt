@@ -1,0 +1,51 @@
+THANK YOU FOR VISITING US !
+
+Welcome to "OAKPRGRM family"
+
+We have given answers of some common questions below :-
+
+Q.How to Download Compiler ?
+
+	-To download Compiler visit our site - http://oakprgrm.ml.ezyro.com and download the setup file from Download page.
+
+Q How to install Compiler ?
+
+	-To install Compiler download setup file from our site and then open it and install it easily.
+
+Q How to run Stand Alone Program ?
+
+	-To run Stand alone program follow following steps ,
+
+		1. Open Java Compiler.
+		2. Create new .java file using ctrl+n or New option from File menu.
+		3. Give the name for your program.
+		4. Write the code.
+		5. Compile it using ctrl+t or Compile option from Execute menu.
+		6. Run it using ctrl+r or Run option from Execute menu.
+		
+		Note - You can compile a file as well as run a file at one time using execute button from the panel.
+
+Q How to run Applet Program ?
+
+	-To run Stand alone program follow following steps ,
+
+		1. Open Java Compiler.
+		2. Create new .java file using ctrl+m or New option from File menu.
+		3. Give the name for your program.
+		4. Write the code.
+		5. Compile it using ctrl+t or Compile option from Execute menu.
+		6. Run it using ctrl+r or Run option from Execute menu.
+		
+		Note - You can compile a file as well as run a file at one time using execute button from the panel.
+
+Q How to solve the execution problem if having ?
+	
+	-If you having any execution problem then just copy the java.policy file from  the zip file that was downloaded with setup file.
+
+	- In the java folder search policy then you will get result as java.policy then just replace it with the downloded file java.policy file.
+
+
+	
+	---------------------------------------------If you have any problem then comment me at our site ----------------------------------------------
+
+					THANK YOU
